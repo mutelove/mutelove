@@ -1,8 +1,6 @@
 #
 <div>
-<img src="https://i.imgur.com/4fHtyUk.png" width="300" align="right" />
 <br/>
-<img src="https://i.imgur.com/n9IdmMW.png" width="500" />
 <br/>
 <br/>
 
@@ -61,11 +59,6 @@ I also enjoy playing Open-World, FPS, Adventure, Platformer, Games <img src="htt
 
 <img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
 <br/>
-<img src="https://i.imgur.com/YmMvy2C.png" width="500" />
-<br/>
-<br/>
-  
-No repositories to add here, soon...
 
 <br/>
 <img src="https://i.imgur.com/JgHTZVd.gif" width="500" align="center" /><br/>
